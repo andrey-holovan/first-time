@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background: url("../img/b3aa4dd5b7c8ccf34ae0f5e9fa8b75d0.jpg")
+    448px 300px no-repeat;
+    background-color: #000058;
+    font-family: "Segoe Script";
+
+    line-height: 1.5;
+    font-size: 20px;
+
+
+}
+h1{
+    font-size: 60px;
+    color: red;
+    width: 880px;
+    margin: auto;
+    box-shadow: 0 5px 10px aliceblue;
+    border-radius: 100px;
+}
+.left{
+    width: 140px;
+    margin: 350px 480px;
+
+}
+.straight{
+    width: 300px;
+    margin: 0px 520px;
+}
+.right{
+    width: 130px;
+    margin: 0px 360px;
+}
+a:link{
+    font-size: 30px;
+    text-decoration: darkorange;
+    cursor: grab;
+}
